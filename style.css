@@ -1,0 +1,57 @@
+ body
+ 	{
+ 		background-color: wheat;
+ 	}
+
+ p 
+ 	{
+ 	font-family: 'Gochi Hand', cursive;
+ 	}
+
+
+
+h1 
+	{
+		font-family: 'Monoton', cursive;
+		font-size: 50px;
+		color:midnightblue;
+	}
+
+h2 
+	{
+		font-family: 'Langar', cursive;
+	}
+
+h3
+	{
+		font-family: 'Gochi Hand', cursive;
+		color: darkred;	
+		background-color: darksalmon;
+		padding: 5px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius:50px;
+	}
+
+a
+	{
+		color: darkred;	
+		padding: 5px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius:50px;
+	}
+
+button
+	{
+		color: darkred;	
+		background-color: lightsteelblue;
+		padding: 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius:50px;
+	}
+	
